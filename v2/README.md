@@ -12,7 +12,8 @@
 ### Instructions
 1. 3D print `bottom.stl`
 	- stop at a certain height during the print to insert the hex nuts
-	- don't forget to pour in glue before inserting them so they don't move around!
+	- don't forget to pour in glue before inserting them so they don't move around
 2. 3D print all `top-*.stl` models
 	- the names indicate which colors they should be printed in
 3. put everything together using superglue
+	- all of the parts fit together in exactly **one orientation**
